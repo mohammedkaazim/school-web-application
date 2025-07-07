@@ -1,4 +1,4 @@
-package com.example.interfaces;
+package src.main.java.com.example.interfaces;
 
 public interface Tyres {
 

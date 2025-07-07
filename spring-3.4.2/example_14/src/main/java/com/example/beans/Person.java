@@ -1,4 +1,4 @@
-package com.example.beans;
+package src.main.java.com.example.beans;
 
 import com.example.services.VehicleServices;
 import org.springframework.beans.factory.annotation.Autowired;

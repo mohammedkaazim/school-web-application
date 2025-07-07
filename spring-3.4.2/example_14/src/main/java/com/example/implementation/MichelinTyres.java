@@ -1,4 +1,4 @@
-package com.example.implementation;
+package src.main.java.com.example.implementation;
 
 import com.example.interfaces.Tyres;
 import org.springframework.context.annotation.Primary;

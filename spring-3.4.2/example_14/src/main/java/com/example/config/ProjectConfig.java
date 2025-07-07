@@ -1,4 +1,4 @@
-package com.example.config;
+package src.main.java.com.example.config;
 
 import com.example.beans.Person;
 import com.example.beans.Vehicle;
